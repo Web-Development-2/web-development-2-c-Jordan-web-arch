@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/uid": "*",
+        "symfony/orm-pack": "*",
+        "doctrine/doctrine-migrations-bundle": "*"
+    },
+    "require-dev": {
+        "slim/slim": "^4.15",
+        "symfony/maker-bundle": "^1.66"
+    }
+}
